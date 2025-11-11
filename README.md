@@ -1,1 +1,2 @@
-This is a side project where I use the data from the 2017-2022 seasons in the five major leagues and use various machine learning algorithms to help accomplish some goals.
+This is a side project where I use the data from the previous eight seasons (ending with the 2024-2025 season) in the big five soccer leagues and use various machine learning algorithms to help accomplish some goals.
+Some goals of this project are to test a model's ability to predict whether a player will be a top 100 player by the end of the 2024-2025 season, as well as using KNN to find players most similar to each other.
